@@ -4,7 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ee36ee4-67c5-4ca4-9efb-fe0877cd159d" name="Changes" comment="" />
+    <list default="true" id="8ee36ee4-67c5-4ca4-9efb-fe0877cd159d" name="Changes" comment="Task 2 Submitted">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rookies_Tasks/Task2/prob1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rookies_Tasks/Task2/prob2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rookies_Tasks/Task2/prob3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rookies_Tasks/Task2/prob4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rookies_Tasks/Task2/prob5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rookies_Tasks/Task2/prob6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rookies_Tasks/Task2/prob7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Rookies_Tasks/Task2/prob8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/IEEE_CS_Ambassoder_2024.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IEEE_CS_Ambassoder_2024.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rookies_Tasks/Task1/Problem_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rookies_Tasks/Task_1/Problem_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rookies_Tasks/Task1/Problem_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rookies_Tasks/Task_1/Problem_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rookies_Tasks/Task1/Problem_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rookies_Tasks/Task_1/Problem_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rookies_Tasks/Task1/Problem_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rookies_Tasks/Task_1/Problem_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rookies_Tasks/Task1/Problem_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rookies_Tasks/Task_1/Problem_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rookies_Tasks/Task1/Problem_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rookies_Tasks/Task_1/Problem_6.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,29 +49,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Problem 1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Problem_1.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Problem_2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.problem_2.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Peter/Desktop/IEEE_CS_Ambassoder_2024&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Problem 1.executor": "Run",
+    "Application.Problem_1.executor": "Run",
+    "Application.Problem_2.executor": "Run",
+    "Application.problem_2.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Peter/Desktop/IEEE_CS_Ambassoder_2024",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -73,10 +92,16 @@
       <workItem from="1722777002692" duration="339000" />
       <workItem from="1722777411202" duration="584000" />
       <workItem from="1722778011193" duration="9000" />
+      <workItem from="1722778195816" duration="7000" />
+      <workItem from="1722794779161" duration="1162000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Task 2 Submitted" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task 2 Submitted" />
   </component>
 </project>
