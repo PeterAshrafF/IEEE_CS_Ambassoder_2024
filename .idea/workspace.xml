@@ -5,23 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8ee36ee4-67c5-4ca4-9efb-fe0877cd159d" name="Changes" comment="Task 2 Submitted">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rookies_Tasks/Task2/prob1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rookies_Tasks/Task2/prob2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rookies_Tasks/Task2/prob3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rookies_Tasks/Task2/prob4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rookies_Tasks/Task2/prob5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rookies_Tasks/Task2/prob6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rookies_Tasks/Task2/prob7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rookies_Tasks/Task2/prob8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/IEEE_CS_Ambassoder_2024.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IEEE_CS_Ambassoder_2024.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rookies_Tasks/Task1/Problem_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rookies_Tasks/Task_1/Problem_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rookies_Tasks/Task1/Problem_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rookies_Tasks/Task_1/Problem_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rookies_Tasks/Task1/Problem_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rookies_Tasks/Task_1/Problem_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rookies_Tasks/Task1/Problem_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rookies_Tasks/Task_1/Problem_4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rookies_Tasks/Task1/Problem_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rookies_Tasks/Task_1/Problem_5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rookies_Tasks/Task1/Problem_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rookies_Tasks/Task_1/Problem_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rookies_Tasks/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Rookies_Tasks/Task3/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rookies_Tasks/Task_1/Problem_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rookies_Tasks/Task1/Problem_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rookies_Tasks/Task_1/Problem_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rookies_Tasks/Task1/Problem_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rookies_Tasks/Task_1/Problem_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rookies_Tasks/Task1/Problem_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rookies_Tasks/Task_1/Problem_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rookies_Tasks/Task1/Problem_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rookies_Tasks/Task_1/Problem_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rookies_Tasks/Task1/Problem_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rookies_Tasks/Task_1/Problem_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/Rookies_Tasks/Task1/Problem_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +46,7 @@
     "Application.Problem 1.executor": "Run",
     "Application.Problem_1.executor": "Run",
     "Application.Problem_2.executor": "Run",
+    "Application.prob1.executor": "Run",
     "Application.problem_2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -94,6 +87,8 @@
       <workItem from="1722778011193" duration="9000" />
       <workItem from="1722778195816" duration="7000" />
       <workItem from="1722794779161" duration="1162000" />
+      <workItem from="1722884851331" duration="2000" />
+      <workItem from="1723058256285" duration="888000" />
     </task>
     <servers />
   </component>
